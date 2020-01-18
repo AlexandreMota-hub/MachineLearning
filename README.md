@@ -4,8 +4,8 @@ Studying Machine Learning
 # Following Machine Learning in action
   This book presents from scratch codes that are considered the top 10 on the machine learning subject. They are:<br />
   1. C4.5 (Trees)<br />
-  1.- k-means<br />
-  1.- support vector machines<br />
+  1. k-means<br />
+  1. support vector machines<br />
   1. Apriori<br />
   1. Expectation Maximization<br />
   1. PageRank<br />
