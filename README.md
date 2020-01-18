@@ -18,3 +18,5 @@ Coding will be made in three steps:<br />
 1. Get algorithm working with simple data<br />
 1. Get real-world data in a format usable by the algorithm <br />
 1. Apply algorithm concept to the real-world scenario.
+# Supervised Learning
+Asks machine to learn from our data when we specify a target variable.
