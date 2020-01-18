@@ -22,4 +22,4 @@ Coding will be made in three steps:<br />
 def foo():
     if not bar:
         return True
-"""
+'''
