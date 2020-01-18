@@ -13,3 +13,8 @@ Studying Machine Learning
   8- k-nearest-neighbours<br />
   9- Naive Bayes<br />
   10 -CART<br />
+# Coding method of progression
+Coding will be made in three steps:
+1- Get algorithm working with simple data<br />
+2- Get real-world data in a format usable by the algorithm <br />
+3- Apply algorithm concept to the real-world scenario.
