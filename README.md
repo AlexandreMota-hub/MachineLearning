@@ -3,13 +3,13 @@ Studying Machine Learning
 
 # Following Machine Learning in action
   This book presents from scratch codes that are considered the top 10 on the machine learning subject. They are:
-  1- C4.5 (Trees)
-  2- k-means
-  3- support vector machines
-  4- Apriori
-  5- Expectation Maximization
-  6- PageRank
-  7- AdaBoost
-  8- k-nearest-neighbours
-  9- Naive Bayes
-  10 -CART
+  1- C4.5 (Trees)<br /><br />
+  2- k-means<br />
+  3- support vector machines<br />
+  4- Apriori<br />
+  5- Expectation Maximization<br />
+  6- PageRank<br />
+  7- AdaBoost<br />
+  8- k-nearest-neighbours<br />
+  9- Naive Bayes<br />
+  10 -CART<br />
