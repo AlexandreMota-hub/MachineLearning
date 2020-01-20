@@ -20,3 +20,5 @@ Coding will be made in three steps:<br />
 1. Apply algorithm concept to the real-world scenario.
 # Supervised Learning
 Asks machine to learn from our data when we specify a target variable.
+# Content:
+1. Machine Learning - Text File with introdutory concepts
