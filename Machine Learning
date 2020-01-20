@@ -1,0 +1,35 @@
+MachineLearning
+Studying Machine Learning
+
+Following Machine Learning in action
+This book presents from scratch codes that are considered the top 10 on the machine learning subject. They are:
+
+C4.5 (Trees)
+k-means
+support vector machines
+Apriori
+Expectation Maximization
+PageRank
+AdaBoost
+k-nearest-neighbours
+Naive Bayes
+-CART
+Coding method of progression
+Coding will be made in three steps:
+
+Get algorithm working with simple data
+Get real-world data in a format usable by the algorithm
+Apply algorithm concept to the real-world scenario.
+Supervised Learning
+Asks machine to learn from our data when we specify a target variable.
+There's two cases of target variable:
+1- Classification -> Target variable have nominal values [ex:True or False, strings, etc...]
+2- Regression -> Target variable is numeric
+#####################################################################################################################
+Steps to Machine Learning
+Collect Data
+Prepare input Data
+Analyze the input data
+Train the algorithm
+Test the algorithm
+Use it
